@@ -1,0 +1,8 @@
+2023-08-12 17:13:47,833 root INFO Question No. 3: 
+2023-08-12 17:13:47,838 root INFO Defining a function to calculate the square of a number
+2023-08-12 17:13:47,839 root INFO we create a multiprocessing.Process object and pass the square function as the target and argument num as a tuple using the args parameter
+2023-08-12 17:13:47,839 root INFO we start the process using m.start() and wait for it to finish using m.join()
+2023-08-12 17:13:50,211 root INFO Question No. 5: 
+2023-08-12 17:13:50,213 root INFO Defining a function sq_root to calculate sq root of list of numbers.
+2023-08-12 17:13:50,213 root INFO creating a Pool object with 3 processes
+2023-08-12 17:13:50,243 root INFO Submit function sq_root to the pool
